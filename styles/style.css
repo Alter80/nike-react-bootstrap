@@ -4,6 +4,14 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 
+header{
+    background-color: #FFF9F4 !important;
+}
+
+.mynav{
+    background-color: #FFF9F4;
+}
+
 .imgback{
     background-color: #F1F1F1;
     padding: 5px;
