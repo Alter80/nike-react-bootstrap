@@ -12,6 +12,14 @@ header{
     background-color: #FFF9F4;
 }
 
+.fw-bolder{
+    font-size: 80px;
+}
+
+.heading{
+    color: #FA804C;   
+}
+
 .imgback{
     background-color: #F1F1F1;
     padding: 5px;
